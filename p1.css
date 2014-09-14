@@ -1,0 +1,68 @@
+body { 
+  background-color: #dddddd;
+  font-family:      helvetica, arial, verdana, sans-serif;
+  font-size:        small;
+  margin:           10px;
+}
+
+div#table{
+	display: table;
+	border-spacing: 5px;
+}
+
+div#tablerow{
+	display: table-row;
+	background-color: white;
+}
+
+section#projects{
+	display: table-cell;
+	padding: 15px;
+	vertical-align: top;
+	width: 20%;
+}
+
+section#main{
+	display: table-cell;
+	padding: 15px;
+	vertical-align: top;
+}
+
+h1, h2{
+	font-family: cursive;
+	color: red;
+}
+
+h1{
+	font-size: 2em;
+}
+
+h2{
+	font-size: 1.5em;
+}
+
+
+section#projects p{
+	color: orange;
+	font-weight: bold;
+	font-size: 1.2em;
+
+}
+
+img#qi {float: right;}
+
+a:link {
+  color: black;
+  text-decoration: none;
+}
+
+a:visited{
+	color: black;
+	text-decoration: none;
+}
+
+
+a:hover {
+  color: purple ;
+  text-decoration: none;
+}
