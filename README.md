@@ -7,6 +7,7 @@ http://p1.claireyang.me
 ----
 ## Description
 This is my first project for the Dynamic Web Application (DWA) course. It generates a static website. The website contains my portfolio and the placeholders for all my DWA projects.
+
 ----
 ## Demo
 No demo for this project. 
