@@ -20,17 +20,17 @@
             </ul>
             <p>Project 2 : Title TBD</p>
             <ul>
-               <li>View</li>
+               <li><a href="http://p2.claireyang.me/">View</a></li>
                <li><a href="https://github.com/yangqiclaire/p2">Github</a></li>
             </ul>
             <p>Project 3 : Title TBD</p>
             <ul>
-               <li>View</li>
+               <li><a href="http://p3.claireyang.me/">View</a></li>
                <li><a href="https://github.com/yangqiclaire/p3">Github</a></li>
              </ul>
             <p>Project 4 : Title TBD</p>
             <ul>
-               <li>View</li>
+               <li><a href="http://p4.claireyang.me/">View</a></li>
                <li><a href="https://github.com/yangqiclaire/p4">Github</a></li>
             </ul>      	
         </section>
